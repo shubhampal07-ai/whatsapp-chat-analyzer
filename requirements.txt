@@ -6,3 +6,4 @@ seaborn
 emoji
 wordcloud
 plotly
+urlextract
